@@ -1,0 +1,177 @@
+body
+{
+    text-align: center;
+background: rgb(236,236,236);
+   // background: grey;
+}
+
+
+#mainMenu{
+    margin: 42px 0px auto 205px;
+//max-width: 1253px;
+
+   max-width: 1500px;
+    height: 15px;
+    border: 1px solid gold;
+
+    background-position: left top;
+    background-repeat: no-repeat;
+   // word-break:break-all;
+       text-align:left;
+    overflow:hidden; word-wrap:break-word;
+    color:grey;
+    letter-spacing: 0.5px;
+    font-size: 14px;
+}
+
+
+
+ #secure {
+    margin: -10px auto  40px;
+    //max-width: 1253px;
+    max-width: 1145px;
+    height: 882px;
+    border: 1px solid gray;
+    background-image: url("/images/bgimages/swa_intro-animation-1-test.jpg");
+    background-position: left top;
+    background-repeat: no-repeat;
+}
+
+
+
+
+#priority {
+    margin: -40px auto 40px;
+    max-width: 1146px;
+    height: 655px;
+    border: 1px solid red;
+    background-image: url("/images/fon_men2.jpg");
+    background-position: left top;
+    background-repeat: no-repeat;
+
+
+}
+#priorityTxt{
+
+    margin:120px 120px 0px 265px;
+    max-width: 800px;
+    height: 200px;
+    border: 1px solid gold;
+
+    background-position: left top;
+    background-repeat: no-repeat;
+    text-align:left;
+    line-height: 1.7;
+    letter-spacing: 1.7px;
+    overflow-x:hidden;
+
+}
+
+
+#priorityTxt1{
+
+    margin: 85px auto 20px 190px;
+    max-width: 370px;
+    height: 105px;
+    border: 1px solid gold;
+
+    background-position: left top;
+    background-repeat: no-repeat;
+    text-align:left;
+    overflow-x:hidden;
+}
+
+
+#security{
+    margin:-42px auto 40px;
+    max-width: 1146px;
+    height: 768px;
+    border: 1px solid blue;
+    background-image:url("/images/fon_menu3.jpg");
+    background-position: left top;
+    background-repeat: no-repeat;
+    overflow-x:hidden;
+
+}
+
+#securityTxt{
+
+
+    margin:320px 100px auto 620px;
+   max-width: 800px;
+    height: 170px;
+    border: 1px solid gold;
+
+    background-position: left top;
+    background-repeat: no-repeat;
+    text-align:left;
+    line-height: 1.7;
+    letter-spacing: 1.7px;
+    overflow-x:hidden;
+}
+
+
+
+#continues{
+    margin: -40px auto 40px;
+    max-width: 1146px;
+    height: 882px;
+    border: 1px solid green;
+    background-image:url("/images/fon_men4.jpg");
+    background-position: left top;
+    background-repeat: no-repeat;
+}
+#continuesTxt1{
+    margin:115px 120px auto 265px;
+    max-width: 760px;
+    height: 110px;
+    border: 1px solid gold;
+
+    background-position: left top;
+    background-repeat: no-repeat;
+    text-align:left;
+    line-height: 1.7;
+    letter-spacing: 1.7px;
+    overflow-x:hidden;
+}
+#continuesTxt2{
+    margin:45px 120px auto 265px;
+    max-width: 760px;
+    height: 110px;
+    border: 1px solid gold;
+
+    background-position: left top;
+    background-repeat: no-repeat;
+    text-align:left;
+    line-height: 1.7;
+    letter-spacing: 1.7px;
+    overflow-x:hidden;
+}
+
+#continuesTxt3{
+    margin:45px 120px auto 265px;
+    max-width: 760px;
+    height: 80px;
+    border: 1px solid gold;
+
+    background-position: left top;
+    background-repeat: no-repeat;
+    text-align:left;
+    line-height: 1.7;
+    letter-spacing: 1.7px;
+    overflow-x:hidden;
+}
+
+#continuesTxt4{
+    margin:45px 120px auto 265px;
+    max-width: 760px;
+    height: 80px;
+    border: 1px solid gold;
+
+    background-position: left top;
+    background-repeat: no-repeat;
+    text-align:left;
+    line-height: 1.7;
+    letter-spacing: 1.7px;
+    overflow-x:hidden;
+}
