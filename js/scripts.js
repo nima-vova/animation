@@ -74,7 +74,7 @@ var imgAll = [
 			
             $('#secure').animate({'opacity':'0'},20,function(){
 
-                $('#secure').css({'background':'url('+imgHead[i]+')'});
+                $('#secure').css({'background':'url('+imgAll[i]+')'});
 
                 i++;
 
@@ -87,7 +87,7 @@ var imgAll = [
 
     }
 
-    var intervalGo = setInterval(createAnimation,1000);
+    var intervalGo = setInterval(createAnimation,400);
 	
 	
 
